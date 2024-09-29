@@ -187,7 +187,7 @@ http://35.234.96.134:3000
 ---
 ## 6. Countries
 
-- **URL**: `/countries``
+- **URL**: `/countries`
 - **Method**: `GET`
 - **Request Body**:
   No input parameters required.
@@ -209,7 +209,7 @@ http://35.234.96.134:3000
 ---
 ## 7. States
 
-- **URL**: `/states``
+- **URL**: `/states`
 - **Method**: `GET`
 - **Request Body**:
 ```json
@@ -236,7 +236,7 @@ http://35.234.96.134:3000
 ---
 ## 8. Currencies
 
-- **URL**: `/currencies``
+- **URL**: `/currencies`
 - **Method**: `GET`
 - **Request Body**:
   No input parameters required.
